@@ -11,4 +11,6 @@ namespace CapaDatos
     {
         public static string cn = "server=.;database=MarketArmagedon;uid=sa;pwd=sql";
     }
+
+    /*Pruebas de Git*/
 }
